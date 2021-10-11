@@ -1,0 +1,739 @@
+
+ˆ
+java:S1104„"eMake changeClassroomLessonPane a static final constant or non-public and provide accessors if needed.(úİÀ¡ıÿÿÿÿ8ìàÂª.
+[	java:S106º"9Replace this use of System.out or System.err by a logger.(²’ÿÀşÿÿÿÿ8ƒªü¢ª.
+‚
+java:S1104¾"_Make busyStudentsNameCol a static final constant or non-public and provide accessors if needed.(¥­±øÿÿÿÿ8ìàÂª.
+”
+java:S1104ß"qMake allCurricularUnitsToAssociateComboBox a static final constant or non-public and provide accessors if needed.(¢Ü†©üÿÿÿÿ8ìàÂª.
+U
+java:S1172ú"2Remove this unused method parameter "actionEvent".(˜“­¯úÿÿÿÿ8ìàÂª.
+ƒ
+java:S1104Ñ"`Make aClassStudentsendCol a static final constant or non-public and provide accessors if needed.(½¥§üÿÿÿÿ8ìàÂª.
+U
+java:S1172½
+"2Remove this unused method parameter "actionEvent".(—üŒ£øÿÿÿÿ8¬¶ÿ¡ª.
+U
+java:S1172œ"2Remove this unused method parameter "actionEvent".(ÉêÒøÿÿÿÿ8Ÿç¶ ª.
+U
+java:S1172½"2Remove this unused method parameter "actionEvent".(ûÉ™Åıÿÿÿÿ8ƒªü¢ª.
+y
+java:S1192¶"VDefine a constant instead of duplicating this literal "Ups, algo correu mal" 17 times.(£‡Ğàûÿÿÿÿ8ßàª.
+
+java:S1104ƒ"cMake classroomLessonComboBox a static final constant or non-public and provide accessors if needed.(—¡‹8ìàÂª.
+
+java:S1104-"_Make classroomInsertPane a static final constant or non-public and provide accessors if needed.(çÒ„†üÿÿÿÿ8ìàÂª.
+€
+java:S1104£"bMake curricularUnitComboBox a static final constant or non-public and provide accessors if needed.(ÇßÇ8ìàÂª.
+
+java:S1104N"_Make lessonsBetweenTable a static final constant or non-public and provide accessors if needed.(¨ôßæúÿÿÿÿ8ìàÂª.
+„
+java:S1104¡"aMake nameCurricularUnitCol a static final constant or non-public and provide accessors if needed.(¨Û”äûÿÿÿÿ8ìàÂª.
+i
+java:S1192•"FDefine a constant instead of duplicating this literal "15:00" 3 times.(£ßùÿÿÿÿ8ƒªü¢ª.
+|
+java:S1104]"_Make classroomBySizePane a static final constant or non-public and provide accessors if needed.(Ì®Ó¨8ìàÂª.
+
+java:S1104o"]Make startHourComboBox a static final constant or non-public and provide accessors if needed.(Í­º–ÿÿÿÿÿ8ìàÂª.
+
+java:S1104¼"\Make studentsBusyPane a static final constant or non-public and provide accessors if needed.(»»Æ½üÿÿÿÿ8ìàÂª.
+U
+java:S1172Ø"2Remove this unused method parameter "actionEvent".(šÒáıüÿÿÿÿ8Ÿç¶ ª.
+w
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸Ö€ğ8İô€¢ª.
+Š
+java:S1104d"hMake lessonsByClassroomSearchPane a static final constant or non-public and provide accessors if needed.(‚ËØÚùÿÿÿÿ8ìàÂª.
+~
+java:S1104p"\Make insertLessonPane a static final constant or non-public and provide accessors if needed.(º§¼Ñşÿÿÿÿ8ìàÂª.
+P
+java:S1172Œ"2Remove this unused method parameter "actionEvent".(§ŒÑÕ8ƒªü¢ª.
+„
+java:S1104L"gMake classroomLessonsBetweenPane a static final constant or non-public and provide accessors if needed.(Â¦ˆõ8ìàÂª.
+z
+java:S1104â"]Make insertStudentPane a static final constant or non-public and provide accessors if needed.(–˜å8ìàÂª.
+Y	java:S125‡	"<This block of commented-out lines of code should be removed.(¢êÉ«8¬¶ÿ¡ª.
+
+java:S1104¿"aMake busyStudentsNumberCol a static final constant or non-public and provide accessors if needed.(Ê’ÃÑ8ìàÂª.
+V	java:S106˜"9Replace this use of System.out or System.err by a logger.(ÿà×¹8ßàª.
+y
+java:S1104"\Make aClassLessonsCol a static final constant or non-public and provide accessors if needed.(õÄå8ìàÂª.
+{
+java:S11045"^Make crossingPNameField a static final constant or non-public and provide accessors if needed.(ŸÍ­8ìàÂª.
+v
+java:S3008"YRename this field "FILE_DELIMETER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à÷ã’8ìàÂª.
+U
+java:S1172ƒ"2Remove this unused method parameter "actionEvent".(Şºìûÿÿÿÿ8Ÿç¶ ª.
+U
+java:S1172ˆ"2Remove this unused method parameter "actionEvent".(öü÷øùÿÿÿÿ8ƒªü¢ª.
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(²’ÿÀşÿÿÿÿ8ƒªü¢ª.
+u
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(òÉÕùÿÿÿÿ8ƒªü¢ª.
+U
+java:S1172Í"2Remove this unused method parameter "actionEvent".(Ù®Ì·şÿÿÿÿ8ƒªü¢ª.
+e
+java:S1192¶"GDefine a constant instead of duplicating this literal "number" 7 times.(ÛÓæÉ8ìàÂª.
+y
+java:S1104*"WMake passagePane a static final constant or non-public and provide accessors if needed.(®»™äúÿÿÿÿ8ìàÂª.
+}
+java:S11047"[Make crossingPXField a static final constant or non-public and provide accessors if needed.(£¼Š†şÿÿÿÿ8ìàÂª.
+P
+java:S1172‚"2Remove this unused method parameter "actionEvent".(Ú‹ò£8ßàª.
+P
+java:S1172€"2Remove this unused method parameter "actionEvent".(Î†“æ8ƒªü¢ª.
+p
+java:S1192”"MDefine a constant instead of duplicating this literal "Quinta-Feira" 3 times.(ŠË´¤şÿÿÿÿ8ƒªü¢ª.
+
+java:S1104ª"\Make emailStudentsCol a static final constant or non-public and provide accessors if needed.(ã‚î€ùÿÿÿÿ8ìàÂª.
+n
+java:S1192¦"PDefine a constant instead of duplicating this literal "Warning Dialog" 10 times.(æĞÍ×8ßàª.
+
+java:S1104"^Make allLessonsComboBox a static final constant or non-public and provide accessors if needed.(›÷™¼øÿÿÿÿ8ìàÂª.
+~
+java:S1104‘"`Make addLessontoClassPane a static final constant or non-public and provide accessors if needed.(¼ú›8ìàÂª.
+P
+java:S1172”"2Remove this unused method parameter "actionEvent".(µÎşé8ßàª.
+i
+java:S1192•"FDefine a constant instead of duplicating this literal "14:00" 3 times.(£ßùÿÿÿÿ8ƒªü¢ª.
+z
+java:S1104"\Make allClassComboBox a static final constant or non-public and provide accessors if needed.(÷ã¿ø8ìàÂª.
+p
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‰ú8İô€¢ª.
+s
+java:S1104E"VMake nowNameCol a static final constant or non-public and provide accessors if needed.(ªŠŠı8ìàÂª.
+z
+java:S1104Ç"]Make removeTeacherPane a static final constant or non-public and provide accessors if needed.(àã8ìàÂª.
+s
+java:S1104"VMake graphGroup a static final constant or non-public and provide accessors if needed.(üİ×Ö8ìàÂª.
+
+java:S1104M"bMake classroombetweenSearch a static final constant or non-public and provide accessors if needed.(Šèò¦8ìàÂª.
+z
+java:S1104I"]Make nowClassroomTable a static final constant or non-public and provide accessors if needed.(åùü8ìàÂª.
+[	java:S106É"9Replace this use of System.out or System.err by a logger.(÷ˆÖÈüÿÿÿÿ8ßàª.
+„
+java:S1104¤"aMake curricularUnitNowPane a static final constant or non-public and provide accessors if needed.(‰¡ùşÿÿÿÿ8ìàÂª.
+
+java:S1104Î"^Make studentsaClassPane a static final constant or non-public and provide accessors if needed.(–Ú¥üÿÿÿÿ8ìàÂª.
+ˆ
+java:S1104™"jMake allLessonsComboBoxScheduleEdit a static final constant or non-public and provide accessors if needed.(‹½ÊÒ8ìàÂª.
+
+java:S1104~"_Make classroomLessonsCol a static final constant or non-public and provide accessors if needed.(Çåºğúÿÿÿÿ8ìàÂª.
+z
+java:S1104¶"\Make endAttendanceCol a static final constant or non-public and provide accessors if needed.(£Á®Œ8ìàÂª.
+x
+java:S1104U"[Make betweenFloorCol a static final constant or non-public and provide accessors if needed.(«ĞøÉ8ìàÂª.
+†
+java:S1104ç"cMake birthStudentInsertField a static final constant or non-public and provide accessors if needed.(ßÿŸçúÿÿÿÿ8ìàÂª.
+w
+java:S1104!"UMake freeCheck a static final constant or non-public and provide accessors if needed.(äëñ‹ùÿÿÿÿ8ìàÂª.
+x
+java:S1104<"[Make noderemovefield a static final constant or non-public and provide accessors if needed.(çô÷8ìàÂª.
+
+java:S1104İ"cMake curricularUnitYearField a static final constant or non-public and provide accessors if needed.(ùú¡£8ìàÂª.
+i
+java:S1192•"FDefine a constant instead of duplicating this literal "12:00" 3 times.(£ßùÿÿÿÿ8ƒªü¢ª.
+[
+java:S1197¶"8Move the array designator from the variable to the type.(™³ãüÿÿÿÿ8¯ï³£ª.
+„
+java:S1104š"aMake editStartHourComboBox a static final constant or non-public and provide accessors if needed.(åÜÌåÿÿÿÿÿ8ìàÂª.
+~
+java:S1104\"bMake classroomBySizeTabPane a static final constant or non-public and provide accessors if needed.(›Ü½8ìàÂª.
+€
+java:S1104P"cMake startHLessonsBetweenCol a static final constant or non-public and provide accessors if needed.(ÔÍ¸«8ìàÂª.
+y
+java:S1104©"[Make nameStudentsCol a static final constant or non-public and provide accessors if needed.(…öóı8ìàÂª.
+‚
+java:S1104›"_Make editEndHourComboBox a static final constant or non-public and provide accessors if needed.(—¦°­üÿÿÿÿ8ìàÂª.
+€
+java:S1104¥"bMake nowCurricularUnitTable a static final constant or non-public and provide accessors if needed.(õ¡Şÿ8ìàÂª.
+P
+java:S1172¼"2Remove this unused method parameter "actionEvent".(‡„ä¹8ƒªü¢ª.
+}
+java:S1104^"`Make bysizeClassroomField a static final constant or non-public and provide accessors if needed.(ä©´ğ8ìàÂª.
+‡
+java:S1104”"dMake endHouraddLessonComboBox a static final constant or non-public and provide accessors if needed.(¿Ùü²ÿÿÿÿÿ8ìàÂª.
+z
+java:S1192"WDefine a constant instead of duplicating this literal "Ups, ponto inexistente" 3 times.(ù·¶Üşÿÿÿÿ8î­Ä ª.
+i
+java:S1192•"FDefine a constant instead of duplicating this literal "17:00" 3 times.(£ßùÿÿÿÿ8ƒªü¢ª.
+|
+java:S1104b"ZMake bySizeLimitCol a static final constant or non-public and provide accessors if needed.(ÇıúÂüÿÿÿÿ8ìàÂª.
+
+java:S1104Q"bMake endHLessonsBetweenCol1 a static final constant or non-public and provide accessors if needed.(û€¥—8ìàÂª.
+€
+java:S1104e"cMake lessonsByClassroomField a static final constant or non-public and provide accessors if needed.(¢¬¤8ìàÂª.
+}
+java:S1104i"[Make startHLessonCol a static final constant or non-public and provide accessors if needed.(­ÖÒÎøÿÿÿÿ8ìàÂª.
+’
+java:S1104ê"oMake allClasstoAssociateStudentsComboBox a static final constant or non-public and provide accessors if needed.(õô“°ıÿÿÿÿ8ìàÂª.
+|
+java:S1104ğ"_Make cUnitsStudentsTable a static final constant or non-public and provide accessors if needed.(êâ¸Y8ìàÂª.
+U
+java:S1172"2Remove this unused method parameter "actionEvent".(ğ ŸÊøÿÿÿÿ8ƒªü¢ª.
+s
+java:S1104%"VMake classroom2 a static final constant or non-public and provide accessors if needed.(õÇØ8ìàÂª.
+
+java:S11046"_Make crossingPAboutField a static final constant or non-public and provide accessors if needed.(İùµìûÿÿÿÿ8ìàÂª.
+„
+java:S1104 "aMake yearCurricularUnitCol a static final constant or non-public and provide accessors if needed.(ÙŞÓçûÿÿÿÿ8ìàÂª.
+P
+java:S1172”"2Remove this unused method parameter "actionEvent".(üÆàó8ßàª.
+}
+java:S1104Ó"_Make allStudentsComboBox a static final constant or non-public and provide accessors if needed.(›©†š8ìàÂª.
+U
+java:S1172Ş"2Remove this unused method parameter "actionEvent".(…ô¤€üÿÿÿÿ8ƒªü¢ª.
+‚
+java:S1104m"eMake lessonsEndHourSearchField a static final constant or non-public and provide accessors if needed.(ŞüˆÓ8ìàÂª.
+|
+java:S1104a"ZMake bySizeFloorCol a static final constant or non-public and provide accessors if needed.(‹•…üÿÿÿÿ8ìàÂª.
+P
+java:S1172÷	"2Remove this unused method parameter "actionEvent".(ñú‘ó8¬¶ÿ¡ª.
+i
+java:S1192•"FDefine a constant instead of duplicating this literal "10:00" 3 times.(£ßùÿÿÿÿ8ƒªü¢ª.
+w
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸Ö€ğ8Ÿç¶ ª.
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(’Æ¿‘úÿÿÿÿ8Ÿç¶ ª.
+x
+java:S1104q"\Make endHourComboBox1 a static final constant or non-public and provide accessors if needed.(Ïèª|8ìàÂª.
+[	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ÿç¶ ª.
+e
+java:S1192ç"GDefine a constant instead of duplicating this literal " para " 4 times.(›ª‹Ø8î­Ä ª.
+[	java:S106ğ"9Replace this use of System.out or System.err by a logger.(Ù¢â´ûÿÿÿÿ8î­Ä ª.
+P
+java:S1172‹"2Remove this unused method parameter "actionEvent".(¸·ñù8ßàª.
+€
+java:S1104´"bMake classroomAttendanceCol a static final constant or non-public and provide accessors if needed.(ÊÊîê8ìàÂª.
+k
+java:S1871ö"MThis branch's code block is the same as the block for the branch on line 372.(İÚª£8ìàÂª.
+P
+java:S1172É"2Remove this unused method parameter "actionEvent".(ğ½‰á8ßàª.
+i
+java:S1192•"FDefine a constant instead of duplicating this literal "19:00" 3 times.(£ßùÿÿÿÿ8ƒªü¢ª.
+u
+java:S1104†"WMake idaClassCol a static final constant or non-public and provide accessors if needed.(­Èñ…8ìàÂª.
+~
+java:S1104"`Make sizeChangeClassField a static final constant or non-public and provide accessors if needed.(ºÑÕâ8ìàÂª.
+‚
+java:S1104ã"dMake numberInsertStudentField a static final constant or non-public and provide accessors if needed.(…½£8ìàÂª.
+ƒ
+java:S1104å"eMake addressStudentInsertField a static final constant or non-public and provide accessors if needed.(×¬î»8ìàÂª.
+z
+java:S1104|"]Make endhourLessonsCol a static final constant or non-public and provide accessors if needed.(¡ÇÔ8ìàÂª.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(‹‡¹ˆùÿÿÿÿ8ßàª.
+O
+java:S1172Ó"2Remove this unused method parameter "actionEvent".(‘âŒ8î­Ä ª.
+{
+java:S1104¹"]Make busyTeachersTable a static final constant or non-public and provide accessors if needed.(¯ãúØ8ìàÂª.
+
+java:S1104æ"cMake emailStudentInsertField a static final constant or non-public and provide accessors if needed.(¿ŒßÔ8ìàÂª.
+ƒ
+java:S1104;"fMake classroomLimitStudentsPane a static final constant or non-public and provide accessors if needed.(®˜Ü¯8ìàÂª.
+
+java:S11044"_Make aboutClassroomField a static final constant or non-public and provide accessors if needed.(™¸õúÿÿÿÿÿ8ìàÂª.
+V	java:S106Û"9Replace this use of System.out or System.err by a logger.(¶¢¹8ßàª.
+P
+java:S1172ë"2Remove this unused method parameter "actionEvent".(Ìš8ƒªü¢ª.
+P
+java:S1172ı"2Remove this unused method parameter "actionEvent".(Ò»æñ8ƒªü¢ª.
+€
+java:S1104J"^Make classroomNowSearch a static final constant or non-public and provide accessors if needed.(öò…½ÿÿÿÿÿ8ìàÂª.
+|
+java:S1104§"YMake studentsTable a static final constant or non-public and provide accessors if needed.(•ˆòìşÿÿÿÿ8ìàÂª.
+z
+java:S1104n"XMake dayLessonCol a static final constant or non-public and provide accessors if needed.(àÓô‰øÿÿÿÿ8ìàÂª.
+~
+java:S1104Œ"[Make lessonaClassCol a static final constant or non-public and provide accessors if needed.(üÃô¾ÿÿÿÿÿ8ìàÂª.
+O
+java:S1172‹",Remove this unused method parameter "event".(»ï¶ıÿÿÿÿ8ƒªü¢ª.
+}
+java:S1104x"[Make teacherComboBox a static final constant or non-public and provide accessors if needed.(¦—¾«ùÿÿÿÿ8ìàÂª.
+ƒ
+java:S1104Ï"fMake aClassStudentsclassroomCol a static final constant or non-public and provide accessors if needed.(¬·×]8ìàÂª.
+U
+java:S1172Ğ
+"2Remove this unused method parameter "actionEvent".(Š†çÏøÿÿÿÿ8¬¶ÿ¡ª.
+y
+java:S1104F"WMake nowFloorCol a static final constant or non-public and provide accessors if needed.(íŠÙÅıÿÿÿÿ8ìàÂª.
+
+java:S1104Í"^Make aClassStudentTable a static final constant or non-public and provide accessors if needed.(ëŸœ‘øÿÿÿÿ8ìàÂª.
+M
+java:S1066»"/Merge this if statement with the enclosing one.(€ûç’8İô€¢ª.
+€
+java:S1104Â"bMake aClassTeacherShowTable a static final constant or non-public and provide accessors if needed.(âîòÛ8ìàÂª.
+U
+java:S1172Ì"2Remove this unused method parameter "actionEvent".(ï¦³©ùÿÿÿÿ8ƒªü¢ª.
+i
+java:S1192•"FDefine a constant instead of duplicating this literal "21:00" 3 times.(£ßùÿÿÿÿ8ƒªü¢ª.
+i
+java:S1192•"FDefine a constant instead of duplicating this literal "20:00" 3 times.(£ßùÿÿÿÿ8ƒªü¢ª.
+U
+java:S1172¡"2Remove this unused method parameter "actionEvent".(äÛ¾«ıÿÿÿÿ8ƒªü¢ª.
+U
+java:S1172™"2Remove this unused method parameter "actionEvent".(Ôòœ¦ıÿÿÿÿ8ƒªü¢ª.
+O
+java:S1172³"2Remove this unused method parameter "actionEvent".(ü‰ä8ƒªü¢ª.
+w
+java:S1104¬"YMake teachersTable a static final constant or non-public and provide accessors if needed.(µƒÄŸ8ìàÂª.
+Y	java:S125¤"<This block of commented-out lines of code should be removed.( ®Á‹8ìàÂª.
+~
+java:S1104@"\Make studentsLimitCol a static final constant or non-public and provide accessors if needed.(Áš„Âşÿÿÿÿ8ìàÂª.
+ˆ
+java:S1104Ö"eMake allaClassStudentsComboBox a static final constant or non-public and provide accessors if needed.(ˆâ¥¬üÿÿÿÿ8ìàÂª.
+x
+java:S1104®"ZMake nameTeacherCol a static final constant or non-public and provide accessors if needed.(¤›ÆÔ8ìàÂª.
+U
+java:S1172Ï"2Remove this unused method parameter "actionEvent".(ã‹«“şÿÿÿÿ8Ÿç¶ ª.
+x
+java:S1104w"[Make aClassTypeField a static final constant or non-public and provide accessors if needed.( ·ªë8ìàÂª.
+f
+java:S1192œ"HDefine a constant instead of duplicating this literal "endhour" 5 times.(»ç™ñ8ìàÂª.
+“
+java:S1104á"pMake associateTeacherToCurricularUnitPane a static final constant or non-public and provide accessors if needed.(„ªÔÃûÿÿÿÿ8ìàÂª.
+U
+java:S1172Ë"2Remove this unused method parameter "actionEvent".(ïœ¤¯şÿÿÿÿ8ƒªü¢ª.
+Y	java:S125õ"<This block of commented-out lines of code should be removed.(ç¨¹­8ƒªü¢ª.
+U
+java:S1172î"2Remove this unused method parameter "actionEvent".(ášÌñÿÿÿÿÿ8ƒªü¢ª.
+i
+java:S1192•"FDefine a constant instead of duplicating this literal "16:00" 3 times.(£ßùÿÿÿÿ8ƒªü¢ª.
+[	java:S106°	"9Replace this use of System.out or System.err by a logger.(®·ØÅúÿÿÿÿ8¬¶ÿ¡ª.
+„
+java:S1104’"fMake startHouraddLessonComboBox a static final constant or non-public and provide accessors if needed.(«àóÚ8ìàÂª.
+M
+java:S1066º"/Merge this if statement with the enclosing one.(İö ¥8ƒªü¢ª.
+ƒ
+java:S1104S"aMake betweenClassroomTable a static final constant or non-public and provide accessors if needed.(íŠÏ¤ûÿÿÿÿ8ìàÂª.
+[	java:S106ı"9Replace this use of System.out or System.err by a logger.(¹”€Àüÿÿÿÿ8î­Ä ª.
+
+java:S1104ñ"cMake cUnitsStudentsNumberCol a static final constant or non-public and provide accessors if needed.(ªÁ8ìàÂª.
+y
+java:S1104h"WMake idLessonCol a static final constant or non-public and provide accessors if needed.( ²Íıÿÿÿÿ8ìàÂª.
+w
+java:S1104"UMake aboutPane a static final constant or non-public and provide accessors if needed.(¨Ó›Çşÿÿÿÿ8ìàÂª.
+}
+java:S1104W"[Make betweenAboutCol a static final constant or non-public and provide accessors if needed.(ÂÂ£‰ûÿÿÿÿ8ìàÂª.
+z
+java:S1104Š"\Make teacheraClassCol a static final constant or non-public and provide accessors if needed.(‰ºÈÓ8ìàÂª.
+U
+java:S1172¼"2Remove this unused method parameter "actionEvent".(—Û“ëıÿÿÿÿ8ƒªü¢ª.
+U
+java:S1172Æ"2Remove this unused method parameter "actionEvent".(‡İ©•üÿÿÿÿ8Ÿç¶ ª.
+q
+java:S1192”"NDefine a constant instead of duplicating this literal "Segunda-Feira" 3 times.(ŠË´¤şÿÿÿÿ8ƒªü¢ª.
+r
+java:S1104'"UMake pathPopup a static final constant or non-public and provide accessors if needed.(÷÷øê8ìàÂª.
+ˆ
+java:S1104X"fMake classroombetweenSearchpane a static final constant or non-public and provide accessors if needed.(õÃ½îúÿÿÿÿ8ìàÂª.
+„
+java:S1104ò"aMake cUnitsStudentsNameCol a static final constant or non-public and provide accessors if needed.(µë¢¦øÿÿÿÿ8ìàÂª.
+i
+java:S1192Š"FDefine a constant instead of duplicating this literal "about" 3 times.(æ·’üÿÿÿÿ8ìàÂª.
+U
+java:S1172é"2Remove this unused method parameter "actionEvent".(Ÿµ™™úÿÿÿÿ8ƒªü¢ª.
+†
+java:S1104«"cMake registrationStudentsCol a static final constant or non-public and provide accessors if needed.(÷ï ùÿÿÿÿ8ìàÂª.
+‚
+java:S1104²"_Make allTeachersComboBox a static final constant or non-public and provide accessors if needed.(Œä¤ùÿÿÿÿ8ìàÂª.
+Š
+java:S1192¶"gDefine a constant instead of duplicating this literal "NÃ£o existe nenhuma Sala com esse nome" 4 times.(£‡Ğàûÿÿÿÿ8ßàª.
+n	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÿ¡†8İô€¢ª.
+{
+java:S1104j"YMake endHLessonCol a static final constant or non-public and provide accessors if needed.(«ãéãşÿÿÿÿ8ìàÂª.
+q
+java:S1104?"TMake floorCol a static final constant or non-public and provide accessors if needed.(¿©¼ò8ìàÂª.
+w
+java:S1104‡"YMake yearaClassCol a static final constant or non-public and provide accessors if needed.(¸¶ßÛ8ìàÂª.
+}
+java:S1104Å"_Make dayaClassTeacherCol a static final constant or non-public and provide accessors if needed.(ÑÒµ–8ìàÂª.
+U
+java:S1172‡
+"2Remove this unused method parameter "actionEvent".(´çÀïûÿÿÿÿ8¬¶ÿ¡ª.
+u
+java:S1104+"XMake passageField a static final constant or non-public and provide accessors if needed.(¢­Ñæ8ìàÂª.
+„
+java:S1104±"aMake teacherAttendancePane a static final constant or non-public and provide accessors if needed.(ÓÙ£¥ÿÿÿÿÿ8ìàÂª.
+|
+java:S1104c"ZMake bySizeAboutCol a static final constant or non-public and provide accessors if needed.(Ê€Ã¶ÿÿÿÿÿ8ìàÂª.
+}
+java:S1104/"[Make classroomXField a static final constant or non-public and provide accessors if needed.(ÖÜÌúÿÿÿÿ8ìàÂª.
+y
+java:S1104°"[Make emailTeacherCol a static final constant or non-public and provide accessors if needed.(şü£¸8ìàÂª.
+|
+java:S11042"_Make crossingPInsertPane a static final constant or non-public and provide accessors if needed.(à§¸Ş8ìàÂª.
+}
+java:S1104y"[Make allLessonsTable a static final constant or non-public and provide accessors if needed.(Î³éûÿÿÿÿ8ìàÂª.
+
+java:S1104­"\Make teacherNumberCol a static final constant or non-public and provide accessors if needed.(ÿÛ¾øÿÿÿÿ8ìàÂª.
+
+java:S1104·"\Make dayattendanceCol a static final constant or non-public and provide accessors if needed.(™ÏàÁıÿÿÿÿ8ìàÂª.
+p
+java:S1192”"MDefine a constant instead of duplicating this literal "TerÃ§a-Feira" 3 times.(ŠË´¤şÿÿÿÿ8ƒªü¢ª.
+‰
+java:S1104è"fMake associateStudentaClassPane a static final constant or non-public and provide accessors if needed.(ô‡ÿÎûÿÿÿÿ8ìàÂª.
+U
+java:S1172à"2Remove this unused method parameter "actionEvent".(¸æ«Œøÿÿÿÿ8ìàÂª.
+P
+java:S1172Ë"2Remove this unused method parameter "actionEvent".(µˆ—8ƒªü¢ª.
+v
+java:S1104&"TMake pathPane a static final constant or non-public and provide accessors if needed.(³Ë¡ıÿÿÿÿ8ìàÂª.
+Š
+java:S1104ë"gMake cUnitsStudentsAssociatePane a static final constant or non-public and provide accessors if needed.(³ê‘ııÿÿÿÿ8ìàÂª.
+P
+java:S1172¢"2Remove this unused method parameter "actionEvent".(£×§Ö8ƒªü¢ª.
+M
+java:S1066ø"/Merge this if statement with the enclosing one.(€ûç’8Ÿç¶ ª.
+€
+java:S1104:"cMake crossingPConnectedField a static final constant or non-public and provide accessors if needed.(ÉÆıÍ8ìàÂª.
+z
+java:S1104¸"\Make teachersBusyPane a static final constant or non-public and provide accessors if needed.(µ¥¨8ìàÂª.
+„
+java:S1104Ã"aMake startaClassTeacherCol a static final constant or non-public and provide accessors if needed.(ÑŞ©²şÿÿÿÿ8ìàÂª.
+j
+java:S1192¶"GDefine a constant instead of duplicating this literal "Error" 16 times.(£‡Ğàûÿÿÿÿ8ßàª.
+P
+java:S1172ä"2Remove this unused method parameter "actionEvent".(ş›ı8¬¶ÿ¡ª.
+~
+java:S1104"[Make changeClassPane a static final constant or non-public and provide accessors if needed.(Üæîøÿÿÿÿ8ìàÂª.
+s
+java:S1104$"VMake classroom1 a static final constant or non-public and provide accessors if needed.(‰ì¯í8ìàÂª.
+}
+java:S1104R"`Make classroomBetweenPane a static final constant or non-public and provide accessors if needed.(ŠÇà‰8ìàÂª.
+~
+java:S1104Ù"`Make aClassNameStudentCol a static final constant or non-public and provide accessors if needed.(æ¿ê¿8ìàÂª.
+o
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(‘âŒ8î­Ä ª.
+U
+java:S1172Ï	"2Remove this unused method parameter "actionEvent".(õ‹ÏĞùÿÿÿÿ8¬¶ÿ¡ª.
+i
+java:S1192•"FDefine a constant instead of duplicating this literal "13:00" 3 times.(£ßùÿÿÿÿ8ƒªü¢ª.
+u
+java:S1104>"SMake nameCol a static final constant or non-public and provide accessors if needed.(¤æâÕşÿÿÿÿ8ìàÂª.
+U
+java:S1172œ
+"2Remove this unused method parameter "actionEvent".(ì®ÄŞüÿÿÿÿ8¬¶ÿ¡ª.
+x
+java:S1104V"[Make betweenLimitCol a static final constant or non-public and provide accessors if needed.(†üœ8ìàÂª.
+x
+java:S1104t"[Make uCurricComboBox a static final constant or non-public and provide accessors if needed.(Ìì†–8ìàÂª.
+U
+java:S1172ƒ"2Remove this unused method parameter "actionEvent".(¿îíâıÿÿÿÿ8ƒªü¢ª.
+ƒ
+java:S1104Á"`Make allTeachersComboBox1 a static final constant or non-public and provide accessors if needed.(•›Ñùÿÿÿÿ8ìàÂª.
+y
+java:S1104œ"[Make editDayComboBox a static final constant or non-public and provide accessors if needed.(¾§Œ™8ìàÂª.
+
+java:S1104K"]Make showClassAtMoment a static final constant or non-public and provide accessors if needed.(óŞÆúÿÿÿÿ8ìàÂª.
+{
+java:S1104}"YMake dayLessonsCol a static final constant or non-public and provide accessors if needed.(ó£ôªşÿÿÿÿ8ìàÂª.
+…
+java:S1104Ø"bMake aClassNumberStudentCol a static final constant or non-public and provide accessors if needed.(­Ñ„¤øÿÿÿÿ8ìàÂª.
+ˆ
+java:S11043"kMake classroomConnectedTextAreaField a static final constant or non-public and provide accessors if needed.(ÿÎğê8ìàÂª.
+v
+java:S1104_"YMake bySizeNameCol a static final constant or non-public and provide accessors if needed.(‰ÈƒÎ8ìàÂª.
+U
+java:S1172¡"2Remove this unused method parameter "actionEvent".(ĞÌ–”úÿÿÿÿ8ƒªü¢ª.
+U
+java:S1172ö"2Remove this unused method parameter "actionEvent".(Ş®›¶ùÿÿÿÿ8ƒªü¢ª.
+U
+java:S1172–"2Remove this unused method parameter "actionEvent".(¸¦İüÿÿÿÿÿ8ƒªü¢ª.
+
+java:S1104—"jMake allaClasswithoutLessonComboBox a static final constant or non-public and provide accessors if needed.(Æô’©üÿÿÿÿ8ìàÂª.
+x
+java:S1104""VMake aboutField a static final constant or non-public and provide accessors if needed.(¨¿âûÿÿÿÿ8ìàÂª.
+w
+java:S1104T"ZMake betweenNameCol a static final constant or non-public and provide accessors if needed.(™³Ğ‚8ìàÂª.
+J
+java:S1172õ",Remove this unused method parameter "event".(úıíä8ƒªü¢ª.
+|
+java:S1104»"^Make busyTeacherNameCol a static final constant or non-public and provide accessors if needed.(³³¸›8ìàÂª.
+a
+java:S1155ğ
+">Use isEmpty() to check whether the collection is empty or not.(×Şâéşÿÿÿÿ8ƒªü¢ª.
+i
+java:S1192•"FDefine a constant instead of duplicating this literal "18:00" 3 times.(£ßùÿÿÿÿ8ƒªü¢ª.
+€
+java:S1104½"]Make busyStudentsTable a static final constant or non-public and provide accessors if needed.(»ĞÅõûÿÿÿÿ8ìàÂª.
+{
+java:S1104."^Make classroomNameField a static final constant or non-public and provide accessors if needed.(¾«8ìàÂª.
+€
+java:S1104D"^Make classroomStatePane a static final constant or non-public and provide accessors if needed.(¶Ñ¤Êúÿÿÿÿ8ìàÂª.
+[	java:S106 "9Replace this use of System.out or System.err by a logger.(×Èƒ»şÿÿÿÿ8ßàª.
+‚
+java:S1104³"_Make attendanceShowTable a static final constant or non-public and provide accessors if needed.(ıë—öøÿÿÿÿ8ìàÂª.
+P
+java:S1172Ã"2Remove this unused method parameter "actionEvent".(¼í¸½8ßàª.
+
+java:S1104µ"^Make startAttendanceCol a static final constant or non-public and provide accessors if needed.(Ù¢ ‚şÿÿÿÿ8ìàÂª.
+O
+java:S1172¶"2Remove this unused method parameter "actionEvent".(şÔ²58ƒªü¢ª.
+Œ
+java:S1104é"nMake allStudentsAssociateaClassComboBox a static final constant or non-public and provide accessors if needed.(ÌšùÄ8ìàÂª.
+m
+java:S1192›"JDefine a constant instead of duplicating this literal "starthour" 5 times.(„²Øÿÿÿÿÿ8ìàÂª.
+„
+java:S1104“"aMake sizeChangeClassField1 a static final constant or non-public and provide accessors if needed.(¸ß°ÿÿÿÿÿ8ìàÂª.
+R
+java:S1066Ô"/Merge this if statement with the enclosing one.(€â®÷ıÿÿÿÿ8¯ï³£ª.
+w
+java:S1104("UMake pathField a static final constant or non-public and provide accessors if needed.(ÿ’²¡üÿÿÿÿ8ìàÂª.
+o
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(×å¯Z8¯ï³£ª.
+”
+java:S1104ì"vMake allCurricularUnitsAssociateStudentComboBox a static final constant or non-public and provide accessors if needed.(ÕËÚ8ìàÂª.
+u
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(šèĞúÿÿÿÿ8Ÿç¶ ª.
+x
+java:S1104u"[Make aClassNameField a static final constant or non-public and provide accessors if needed.(‰‚˜8ìàÂª.
+„
+java:S1104Ì"aMake cUnitsTeachersNameCol a static final constant or non-public and provide accessors if needed.(Ş¢úşÿÿÿÿ8ìàÂª.
+{
+java:S1104À"]Make teacheraClassPane a static final constant or non-public and provide accessors if needed.(–¥”»8ìàÂª.
+P
+java:S1172×"2Remove this unused method parameter "actionEvent".(‡ç•´8ƒªü¢ª.
+‚
+java:S1104#"eMake classroomAboutFieldSearch a static final constant or non-public and provide accessors if needed.(öÌ÷Ä8ìàÂª.
+o
+java:S1192”"LDefine a constant instead of duplicating this literal "Sexta-Feira" 3 times.(ŠË´¤şÿÿÿÿ8ƒªü¢ª.
+P
+java:S1172’"2Remove this unused method parameter "actionEvent".(¯Òüö8ƒªü¢ª.
+†
+java:S1104Ş"cMake curricularUnitNameField a static final constant or non-public and provide accessors if needed.(ÖàÁøÿÿÿÿ8ìàÂª.
+‚
+java:S1104Ê"_Make cUnitsTeachersTable a static final constant or non-public and provide accessors if needed.(¢´××üÿÿÿÿ8ìàÂª.
+i
+java:S1192•"FDefine a constant instead of duplicating this literal "09:00" 3 times.(£ßùÿÿÿÿ8ƒªü¢ª.
+a
+java:S1117Ï">Rename "classroom1" which hides the field declared at line 36.(ßÖ¸ğÿÿÿÿÿ8ßàª.
+X	java:S125©"<This block of commented-out lines of code should be removed.(†‚ø
+8ßàª.
+ƒ
+java:S1104Æ"eMake classroomaClassTeacherCol a static final constant or non-public and provide accessors if needed.(ˆ§à®8ìàÂª.
+U
+java:S1172œ	"2Remove this unused method parameter "actionEvent".(¦ëî–şÿÿÿÿ8¬¶ÿ¡ª.
+€
+java:S1104Z"cMake endHourClassroomSearch1 a static final constant or non-public and provide accessors if needed.(Ÿ³™Å8ìàÂª.
+}
+java:S11048"[Make crossingPYField a static final constant or non-public and provide accessors if needed.(øªğøÿÿÿÿ8ìàÂª.
+|
+java:S1104{"_Make starthourLessonsCol a static final constant or non-public and provide accessors if needed.(°¤áÛ8ìàÂª.
+[	java:S106Ç"9Replace this use of System.out or System.err by a logger.(ÈÖèúøÿÿÿÿ8Ÿç¶ ª.
+t
+java:S1104"WMake abouIdField a static final constant or non-public and provide accessors if needed.(Ë§´Ï8ìàÂª.
+V	java:S106ç"9Replace this use of System.out or System.err by a logger.(›ª‹Ø8î­Ä ª.
+x
+java:S11040"[Make classroomYField a static final constant or non-public and provide accessors if needed.(ìÁ ë8ìàÂª.
+}
+java:S1104v"[Make aClassSizeField a static final constant or non-public and provide accessors if needed.(’ûÇçşÿÿÿÿ8ìàÂª.
+i
+java:S1192•"FDefine a constant instead of duplicating this literal "08:00" 3 times.(£ßùÿÿÿÿ8ƒªü¢ª.
+U
+java:S1172‹
+"2Remove this unused method parameter "actionEvent".(¼ê±‰úÿÿÿÿ8¬¶ÿ¡ª.
+z
+java:S1104Õ"]Make removeStudentPane a static final constant or non-public and provide accessors if needed.(¹Ùòo8ìàÂª.
+U
+java:S1172°
+"2Remove this unused method parameter "actionEvent".(Ã¨äùÿÿÿÿ8¬¶ÿ¡ª.
+|
+java:S11041"_Make classroomFloorField a static final constant or non-public and provide accessors if needed.(ØÙæ8ìàÂª.
+t
+java:S1104H"WMake nowAboutCol a static final constant or non-public and provide accessors if needed.(ñ²Åß8ìàÂª.
+‰
+java:S1104È"fMake allTeacherToRemoveComboBox a static final constant or non-public and provide accessors if needed.(§åşùÿÿÿÿ8ìàÂª.
+‰
+java:S1104É"fMake allCurricularUnitsComboBox a static final constant or non-public and provide accessors if needed.(Ì×åÎùÿÿÿÿ8ìàÂª.
+€
+java:S1104Ë"bMake cUnitsTeacherNumberCol a static final constant or non-public and provide accessors if needed.(¤ñâÂ8ìàÂª.
+U
+java:S1172Í"2Remove this unused method parameter "actionEvent".(™ÚÙŞüÿÿÿÿ8ƒªü¢ª.
+ƒ
+java:S1104"fMake teacherChangeClassComboBox a static final constant or non-public and provide accessors if needed.(Ã“ÿV8ìàÂª.
+U
+java:S1172Ã"2Remove this unused method parameter "actionEvent".(å©ò‰ıÿÿÿÿ8ìàÂª.
+‰
+java:S1104f"gMake lessonsStartHourSearchField a static final constant or non-public and provide accessors if needed.(É¥Åàûÿÿÿÿ8ìàÂª.
+y
+java:S1104G"WMake nowLimitCol a static final constant or non-public and provide accessors if needed.(¢¹·Äşÿÿÿÿ8ìàÂª.
+P
+java:S1172À"2Remove this unused method parameter "actionEvent".(ƒë“ì8Ò›£Ÿª.
+p
+java:S1192”"MDefine a constant instead of duplicating this literal "Quarta-Feira" 3 times.(ŠË´¤şÿÿÿÿ8ƒªü¢ª.
+v
+java:S1104="ZMake nodeRemovePane a static final constant or non-public and provide accessors if needed.(åóÖ8ìàÂª.
+z
+java:S1104€"\Make deleteLessonPane a static final constant or non-public and provide accessors if needed.(Œ÷£ì8ìàÂª.
+v
+java:S1104A"TMake aboutCol a static final constant or non-public and provide accessors if needed.(»ÆöŠşÿÿÿÿ8ìàÂª.
+‰
+java:S1104à"kMake allTeachersToCurricularComboBox a static final constant or non-public and provide accessors if needed.(Ó¼®—8ìàÂª.
+U	java:S106ì"9Replace this use of System.out or System.err by a logger.(‹Á­t8ƒªü¢ª.
+i
+java:S1192•"FDefine a constant instead of duplicating this literal "11:00" 3 times.(£ßùÿÿÿÿ8ƒªü¢ª.
+U
+java:S1172ì"2Remove this unused method parameter "actionEvent".(ùõÚöüÿÿÿÿ8ƒªü¢ª.
+€
+java:S1104¨"]Make numberStudentsCol a static final constant or non-public and provide accessors if needed.(Ÿ„†×şÿÿÿÿ8ìàÂª.
+U
+java:S1172¦"2Remove this unused method parameter "actionEvent".(ú¦¾üÿÿÿÿ8ƒªü¢ª.
+u
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¦´Ö¿ùÿÿÿÿ8¬¶ÿ¡ª.
+ƒ
+java:S1104º"`Make busyTeacherNumberCol a static final constant or non-public and provide accessors if needed.(·âÇ€şÿÿÿÿ8ìàÂª.
+Y	java:S125·"<This block of commented-out lines of code should be removed.(€æ‹Æ8ìàÂª.
+k
+java:S1192—"HDefine a constant instead of duplicating this literal "Entrada" 3 times.(É‘‚éıÿÿÿÿ8ìàÂª.
+„
+java:S1104Ÿ"aMake ectsCurricularUnitCol a static final constant or non-public and provide accessors if needed.(Š¢øÈùÿÿÿÿ8ìàÂª.
+P
+java:S1172§"2Remove this unused method parameter "actionEvent".(êİœ8ƒªü¢ª.
+U
+java:S1172Ü"2Remove this unused method parameter "actionEvent".(„ù×Ûüÿÿÿÿ8ƒªü¢ª.
+†
+java:S1104Ü"cMake curricularUnitEctsField a static final constant or non-public and provide accessors if needed.(¦šÆùÿÿÿÿ8ìàÂª.
+U
+java:S1172Ü"2Remove this unused method parameter "actionEvent".(Ì™§Ùşÿÿÿÿ8ƒªü¢ª.
+v
+java:S1104,"ZMake nodeInsertPane a static final constant or non-public and provide accessors if needed.(ßÄï8ìàÂª.
+‡
+java:S1104î"iMake teachersandStudentsCUnitsPane a static final constant or non-public and provide accessors if needed.(Ï«¾Ã8ìàÂª.
+I
+java:S1172Â",Remove this unused method parameter "event".(©»¢+8ƒªü¢ª.
+€
+java:S1104ä"bMake nameStudentInsertField a static final constant or non-public and provide accessors if needed.(÷•ë8ìàÂª.
+‡
+java:S1104¢"dMake removeCurricularUnitPane a static final constant or non-public and provide accessors if needed.(ƒ§•Öüÿÿÿÿ8ìàÂª.
+
+java:S1104Y"dMake startHourClassroomSearch a static final constant or non-public and provide accessors if needed.(ÙÆ´²8ìàÂª.
+V	java:S106¡"9Replace this use of System.out or System.err by a logger.(Îù‘¥8ßàª.
+V	java:S106Â"9Replace this use of System.out or System.err by a logger.(ÿà×¹8Ÿç¶ ª.
+x
+java:S1104‹"ZMake ucurraClassCol a static final constant or non-public and provide accessors if needed.(ˆ¸ÅÚ8ìàÂª.
+P
+java:S1172®	"2Remove this unused method parameter "actionEvent".(ìÁ…ï8¬¶ÿ¡ª.
+J
+java:S1172¾	",Remove this unused method parameter "event".(ÔíŸÚ8¬¶ÿ¡ª.
+O
+java:S1172¥	"2Remove this unused method parameter "actionEvent".(š­â"8¬¶ÿ¡ª.
+U
+java:S1172À"2Remove this unused method parameter "actionEvent".(‰ü¤Õùÿÿÿÿ8ƒªü¢ª.
+V
+java:S1197·"8Move the array designator from the variable to the type.(ÄÓÕ´8¯ï³£ª.
+€
+java:S1104Ğ"bMake aClassStudentsstartCol a static final constant or non-public and provide accessors if needed.(‘ş®Ş8ìàÂª.
+‚
+java:S1104"_Make curricularUnitTable a static final constant or non-public and provide accessors if needed.(ª€“Õıÿÿÿÿ8ìàÂª.
+y
+java:S1104l"WMake lessonsPane a static final constant or non-public and provide accessors if needed.(ïŸâ“ÿÿÿÿÿ8ìàÂª.
+y
+java:S1104r"WMake dayComboBox a static final constant or non-public and provide accessors if needed.(Èì—Ÿşÿÿÿÿ8ìàÂª.
+p	java:S100ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ àüÿÿÿÿ8Ÿç¶ ª.
+O
+java:S1172«"2Remove this unused method parameter "actionEvent".(¶–€I8ƒªü¢ª.
+z
+java:S1104z"XMake idLessonsCol a static final constant or non-public and provide accessors if needed.(½ª£üøÿÿÿÿ8ìàÂª.
+P
+java:S1172Î"2Remove this unused method parameter "actionEvent".(ùŒ‹©8ƒªü¢ª.
+
+java:S11049"_Make crossingPFloorField a static final constant or non-public and provide accessors if needed.(—Ğüûÿÿÿÿ8ìàÂª.
+u
+java:S1104…"WMake aClassTable a static final constant or non-public and provide accessors if needed.(±èšª8ìàÂª.
+‡
+java:S1104¦"dMake nowCurricularUnitNameCol a static final constant or non-public and provide accessors if needed.(Í‘ÛÚùÿÿÿÿ8ìàÂª.
+{
+java:S1104)"YMake connectedPane a static final constant or non-public and provide accessors if needed.(ò•í¤üÿÿÿÿ8ìàÂª.
+‚
+java:S1104`"`Make bySizeClassroomTable a static final constant or non-public and provide accessors if needed.(Œ®ùÿÿÿÿ8ìàÂª.
+}
+java:S1104‚"_Make allLessonsComboBox1 a static final constant or non-public and provide accessors if needed.(ÉŠëø8ìàÂª.
+O
+java:S1172ğ"2Remove this unused method parameter "actionEvent".(»Ñ¥D8ƒªü¢ª.
+u
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Øô¹ßúÿÿÿÿ8ìàÂª.
+P
+java:S1172²"2Remove this unused method parameter "actionEvent".(ü˜ò˜8ƒªü¢ª.
+
+java:S1104ˆ"aMake studentLimitaClassCol a static final constant or non-public and provide accessors if needed.(Úš©ÿ8ìàÂª.
+[	java:S106Ê"9Replace this use of System.out or System.err by a logger.(Ì‘úÊıÿÿÿÿ8Ÿç¶ ª.
+‚
+java:S1104Ä"_Make endaClassTeacherCol a static final constant or non-public and provide accessors if needed.(º‹Ö¤úÿÿÿÿ8ìàÂª.
+~
+java:S1104Ò"`Make aClassStudentsdayCol a static final constant or non-public and provide accessors if needed.(¸Áì8ìàÂª.
+z
+java:S1104k"XMake lessonsTable a static final constant or non-public and provide accessors if needed.(»”ô¹úÿÿÿÿ8ìàÂª.
+l
+java:S1192‰"NDefine a constant instead of duplicating this literal "studentsLimit" 4 times.(“Á™û8ìàÂª.
+O
+java:S1172ÿ",Remove this unused method parameter "event".(ˆÀõıúÿÿÿÿ8ƒªü¢ª.
+Š
+java:S1104–"gMake classroomsAddLessonComboBox a static final constant or non-public and provide accessors if needed.(ÓØèúÿÿÿÿ8ìàÂª.
+‚
+java:S1104˜"dMake changeScheduleLessonPane a static final constant or non-public and provide accessors if needed.(ÔºãÔ8ìàÂª.
+Š
+java:S1104Ô"gMake allStudentstoRemoveComboBox a static final constant or non-public and provide accessors if needed.(ß¤İêÿÿÿÿÿ8ìàÂª.
+|
+java:S1104B"ZMake classroomTable a static final constant or non-public and provide accessors if needed.(†æİÎúÿÿÿÿ8ìàÂª.
+€
+java:S1104¯"bMake registrationTeacherCol a static final constant or non-public and provide accessors if needed.(øì›–8ìàÂª.
+\
+java:S1155Â
+">Use isEmpty() to check whether the collection is empty or not.(ù¦•Ú8¬¶ÿ¡ª.
+
+java:S1104s"]Make classroomComboBox a static final constant or non-public and provide accessors if needed.(½ü†Êşÿÿÿÿ8ìàÂª.
+|
+java:S1104Ú"^Make aClassStudentsPane a static final constant or non-public and provide accessors if needed.(‚ˆ›ó8ìàÂª.
+P
+java:S1172á"2Remove this unused method parameter "actionEvent".(£úÈƒ8Ÿç¶ ª.
+„
+java:S1104Û"aMake curricularUnitidField a static final constant or non-public and provide accessors if needed.(•Í›Àıÿÿÿÿ8ìàÂª.
+ƒ
+java:S1104g"aMake lessonsDaySearchField a static final constant or non-public and provide accessors if needed.(‚ô­øÿÿÿÿ8ìàÂª.
+…
+java:S1104ï"gMake allCurricularUnitsComboBox1 a static final constant or non-public and provide accessors if needed.(ÂØÏ¯8ìàÂª.
+O
+java:S1172–",Remove this unused method parameter "event".(Ûë¢àıÿÿÿÿ8ƒªü¢ª.
+|
+java:S1104O"_Make idLessonsBetweenCol a static final constant or non-public and provide accessors if needed.(ëÁÑ¦8ìàÂª.
+P
+java:S1172·"2Remove this unused method parameter "actionEvent".(’Õüô8ßàª.
+~
+java:S1104•"`Make dayAddLessonComboBox a static final constant or non-public and provide accessors if needed.(Ûó8ìàÂª.
+e
+java:S1126®"BReplace this if-then-else statement by a single method invocation.(¥áŞûÿÿÿÿ8ßàª.
+P
+java:S1172ù"2Remove this unused method parameter "actionEvent".(éş•œ8ßàª.
+i
+java:S1192ˆ"FDefine a constant instead of duplicating this literal "floor" 3 times.(Ö„´“ûÿÿÿÿ8ìàÂª.
+V	java:S106ì"9Replace this use of System.out or System.err by a logger.(¡”Îõ8î­Ä ª.
+p
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼í¸½8ßàª.
+{
+java:S1104["^Make dayClassroomSearch a static final constant or non-public and provide accessors if needed.(ÚƒƒÔ8ìàÂª.
+}
+java:S1104"_Make idCurricularUnitCol a static final constant or non-public and provide accessors if needed.(ŠÚ«8ìàÂª.
+U
+java:S1172é	"2Remove this unused method parameter "actionEvent".(ÈÆşÿÿÿÿ8¬¶ÿ¡ª.
+‚
+java:S1104×"_Make aClassStudentsTable a static final constant or non-public and provide accessors if needed.(è°ÿšúÿÿÿÿ8ìàÂª.
+y
+java:S1104C"\Make classroomNowPane a static final constant or non-public and provide accessors if needed.(³†ôÑ8ìàÂª.
+P
+java:S1172î"2Remove this unused method parameter "actionEvent".(èøŞ8ƒªü¢ª.
+U
+java:S1172’"2Remove this unused method parameter "actionEvent".(¬ĞÕõúÿÿÿÿ8ƒªü¢ª.
+|
+java:S1104‰"YMake typeaClassCol a static final constant or non-public and provide accessors if needed.(¦ì‘½ûÿÿÿÿ8ìàÂª.
+P
+java:S1172İ
+"2Remove this unused method parameter "actionEvent".(äé±µ8ƒªü¢ª.
+P
+java:S1172õ"2Remove this unused method parameter "actionEvent".(¡îÒÏ8ƒªü¢ª.
+|
+java:S1104 "ZMake aboutSizeField a static final constant or non-public and provide accessors if needed.(«šœãÿÿÿÿÿ8ìàÂª.
+h
+java:S1192¥"JDefine a constant instead of duplicating this literal "classroom" 4 times.(ÄŞ©8ìàÂª.
+…
+java:S1104í"hMake studentsWithoutcUnitComboBox a static final constant or non-public and provide accessors if needed.(ÓÍ‚(8ìàÂª.
+x
+java:S1104"[Make aboutFloorField a static final constant or non-public and provide accessors if needed.(ñš„¬8ìàÂª.
+P
+java:S1172—"2Remove this unused method parameter "actionEvent".(ïÁûÚ8ƒªü¢ª.

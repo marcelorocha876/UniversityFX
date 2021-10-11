@@ -1,0 +1,32 @@
+
+i
+java:S1104"SMake teacher a static final constant or non-public and provide accessors if needed.(Ø•ÑÀ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(û†ßØûÿÿÿÿ
+f
+java:S1104
+"PMake year a static final constant or non-public and provide accessors if needed.(•µ‰¹
+E
+java:S3740"/Provide the parametrized type for this generic.(ÌøİÀ
+u
+java:S4144€"YUpdate this method so that its implementation is not identical to "getcUnit" on line 229.(ÆÊñ‚şÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(õ»®Ë
+N
+java:S1481:"3Remove this unused "teacherRemoved" local variable.(æı¨Ëüÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(£Ê’«øÿÿÿÿ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(§õª‘ûÿÿÿÿ
+k
+java:S1104"PMake type a static final constant or non-public and provide accessors if needed.(ÙşÓ¼ûÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(†ôÊ¸úÿÿÿÿ
+o
+java:S1104"YMake studentsLimit a static final constant or non-public and provide accessors if needed.(üªúĞ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(şäÙâ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(Ùö¨íüÿÿÿÿ
+j
+java:S1104"TMake students a static final constant or non-public and provide accessors if needed.(ÌøİÀ
+g	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¶äÌ
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(®è—«
+i
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(Â¥Šˆøÿÿÿÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(®Èíıÿÿÿÿ
+]
+java:S1854?"BRemove this useless assignment to local variable "teacherRemoved".(½¢¾Äÿÿÿÿÿ

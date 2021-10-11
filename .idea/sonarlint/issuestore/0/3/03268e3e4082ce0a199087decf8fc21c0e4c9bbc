@@ -1,0 +1,15 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø—Øc
+^	java:S1198"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ãÏß‹
+A
+java:S1948>"&Make "item" transient or serializable.(êôëèúÿÿÿÿ
+c	java:S119="IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Õîõãûÿÿÿÿ
+t
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓÍËÌûÿÿÿÿ
+t
+java:S2293q"YReplace the type specification in this constructor call with the diamond operator ("<>").(øœéüÿÿÿÿ
+^	java:S119u"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(‹£ÙÛ
+P
+java:S1161}":Add the "@Override" annotation above this method signature(¹İş±
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïıÕÈıÿÿÿÿ

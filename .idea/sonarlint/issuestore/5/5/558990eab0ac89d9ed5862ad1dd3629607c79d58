@@ -1,0 +1,111 @@
+
+j
+java:S1192G"UDefine a constant instead of duplicating this literal " estÃ¡ livre entre: " 3 times.(½¶¹h
+U
+java:S2589õ"7Remove this expression which always evaluates to "true"(“Ë8öê¢ª.
+]	java:S125h"<This block of commented-out lines of code should be removed.(ı€âˆûÿÿÿÿ8öê¢ª.
+\
+java:S1192G"GDefine a constant instead of duplicating this literal " atÃ© " 4 times.(½¶¹h
+J
+java:S1128"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶
+[	java:S106Ä"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8öê¢ª.
+p
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Íö‹Ù8öê¢ª.
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(ŠØêœ8öê¢ª.
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(‚ÇÛş
+V	java:S106˜"9Replace this use of System.out or System.err by a logger.(ö±É™8öê¢ª.
+V	java:S106ñ"9Replace this use of System.out or System.err by a logger.(¹«°÷8öê¢ª.
+†
+java:S1319-"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¶ñèÎ
+V	java:S106ó"9Replace this use of System.out or System.err by a logger.(­„Š”8öê¢ª.
+“
+java:S1319ã"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(…ó¸Œÿÿÿÿÿ8öê¢ª.
+V	java:S106æ"9Replace this use of System.out or System.err by a logger.(ş§¡˜8öê¢ª.
+T	java:S106Ã"9Replace this use of System.out or System.err by a logger.(Æ ³áøÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ÈÜ¾€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¹ÖÛşÿÿÿÿ
+V	java:S106"9Replace this use of System.out or System.err by a logger.(°§Îâ8öê¢ª.
+H
+java:S5411"*Use the primitive boolean expression here.(¬‚™ß8öê¢ª.
+[	java:S106÷"9Replace this use of System.out or System.err by a logger.(Ğ¤ıÿÿÿÿ8öê¢ª.
+V	java:S106”"9Replace this use of System.out or System.err by a logger.(ñùœ³8öê¢ª.
+U
+java:S2589å"7Remove this expression which always evaluates to "true"(“Ë8öê¢ª.
+U
+java:S2589­"7Remove this expression which always evaluates to "true"(“Ë8öê¢ª.
+‹
+java:S1319_"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÉüÎ—şÿÿÿÿ
+F
+java:S1066†"/Merge this if statement with the enclosing one.(úíï
+U
+java:S2589¼"7Remove this expression which always evaluates to "true"(“Ë8öê¢ª.
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(àâíÊÿÿÿÿÿ8öê¢ª.
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(êğ»ıÿÿÿÿ
+U	java:S106u"9Replace this use of System.out or System.err by a logger.(ìšÙÖ8öê¢ª.
+O
+java:S1481",Remove this unused "dateNow" local variable.(€ÿ‰şùÿÿÿÿ8öê¢ª.
+[	java:S106ñ"9Replace this use of System.out or System.err by a logger.(¥À¨´üÿÿÿÿ8öê¢ª.
+U
+java:S2589Ø"7Remove this expression which always evaluates to "true"(“Ë8öê¢ª.
+c
+java:S1192"HDefine a constant instead of duplicating this literal "A sala " 5 times.(Ÿ¹ÖÛşÿÿÿÿ
+[	java:S106"9Replace this use of System.out or System.err by a logger.(á¶û¸úÿÿÿÿ8öê¢ª.
+S	java:S106."9Replace this use of System.out or System.err by a logger.(š©åŒıÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ş¾ñ¬
+K
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš
+U
+java:S2589Ë"7Remove this expression which always evaluates to "true"(“Ë8öê¢ª.
+t
+java:S3008"YRename this field "DATE_DELIMETER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…€ŸÖûÿÿÿÿ
+V	java:S106½"9Replace this use of System.out or System.err by a logger.(¨ÛÖ˜8öê¢ª.
+M	java:S106G"9Replace this use of System.out or System.err by a logger.(½¶¹h
+^
+java:S1854";Remove this useless assignment to local variable "dateNow".(€ÿ‰şùÿÿÿÿ8öê¢ª.
+[	java:S106Á"9Replace this use of System.out or System.err by a logger.(®îºıùÿÿÿÿ8öê¢ª.
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+[	java:S106î"9Replace this use of System.out or System.err by a logger.(şËß—ûÿÿÿÿ8öê¢ª.
+“
+java:S1319¦"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¹Îğˆøÿÿÿÿ8öê¢ª.
+V	java:S106¼"9Replace this use of System.out or System.err by a logger.(³Î·8öê¢ª.
+o
+java:S3008"YRename this field "FILE_DELIMETER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à÷ã’
+M	java:S106Q"9Replace this use of System.out or System.err by a logger.(‘­Ì+
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(ÉõÁ÷8öê¢ª.
+Y	java:S125§"<This block of commented-out lines of code should be removed.(èšàâ8öê¢ª.
+[	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(™ÏÛ³ûÿÿÿÿ8öê¢ª.
+U
+java:S2589’"7Remove this expression which always evaluates to "true"(“Ë8öê¢ª.
+[	java:S106¸"9Replace this use of System.out or System.err by a logger.(Õ­›ƒùÿÿÿÿ8öê¢ª.
+Q
+java:S1172â"3Remove this unused method parameter "classRoomsRB".(‰ä8öê¢ª.
+“
+java:S1319ş"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(åâ§”ÿÿÿÿÿ8öê¢ª.
+[	java:S106ê"9Replace this use of System.out or System.err by a logger.(˜˜Æçÿÿÿÿÿ8öê¢ª.
+h
+java:S3776-"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¶ñèÎ
+[	java:S106ê"9Replace this use of System.out or System.err by a logger.(ŸÂğŸÿÿÿÿÿ8öê¢ª.
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(£©Í
+V	java:S106Í"9Replace this use of System.out or System.err by a logger.(Ãí»ş8öê¢ª.
+[	java:S106¸"9Replace this use of System.out or System.err by a logger.(Ë½§±üÿÿÿÿ8öê¢ª.
+R
+java:S1066‡"/Merge this if statement with the enclosing one.(ğ¦»Òşÿÿÿÿ8öê¢ª.
+V	java:S106Ö"9Replace this use of System.out or System.err by a logger.(ı¿í²8öê¢ª.
+“
+java:S1319¹"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ä„õ£ÿÿÿÿÿ8öê¢ª.
+t
+java:S3008"YRename this field "HOUR_DELIMETER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öáœ±øÿÿÿÿ
+V	java:S106"9Replace this use of System.out or System.err by a logger.(Àµ™ˆ8öê¢ª.
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(äö‰‰ûÿÿÿÿ8öê¢ª.
+[	java:S106Ó"9Replace this use of System.out or System.err by a logger.(¹¿ ”úÿÿÿÿ8öê¢ª.
+U
+java:S2589‚"7Remove this expression which always evaluates to "true"(“Ë8öê¢ª.
+U	java:S106z"9Replace this use of System.out or System.err by a logger.(ÑÕßñ8öê¢ª.
+V	java:S106É"9Replace this use of System.out or System.err by a logger.(åèà8öê¢ª.
+
+java:S1319Ğ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÎÉº„8öê¢ª.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÇÌ­8öê¢ª.
+J
+java:S1128	"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜

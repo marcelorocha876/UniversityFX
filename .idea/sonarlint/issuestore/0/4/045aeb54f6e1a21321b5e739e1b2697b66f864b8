@@ -1,0 +1,27 @@
+
+I
+java:S1874â"-Remove this use of "index"; it is deprecated.(‚Í‰Èùÿÿÿÿ
+H
+java:S1874ä",Remove this use of "name"; it is deprecated.(¾ÌŸôøÿÿÿÿ
+q
+java:S4144´"UUpdate this method so that its implementation is not identical to "name" on line 169.(â¯¤µüÿÿÿÿ
+L
+java:S1133À"5Do not forget to remove this deprecated code someday.(Áð†“
+_
+java:S1123¿"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133“"5Do not forget to remove this deprecated code someday.(ì²ƒž
+o
+java:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").( Œäæ
+_
+java:S1123¨"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q	java:S125d"<This block of commented-out lines of code should be removed.(¯†õ‰
+Q	java:S125|"<This block of commented-out lines of code should be removed.(©´÷ƒ
+R	java:S125Í"<This block of commented-out lines of code should be removed.(Ì˜½Ë
+g	java:S101H"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”¼µŽùÿÿÿÿ
+g	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü„ƒ’
+d	java:S100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áð†“
+_
+java:S1123’"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133©"5Do not forget to remove this deprecated code someday.(Úïá—üÿÿÿÿ

@@ -1,0 +1,23 @@
+
+R	java:S125™"<This block of commented-out lines of code should be removed.(Ì˜½Ë
+p
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŞÄÏÎ
+a	java:S116-"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òğ‚î
+f	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èè¥ˆ
+k	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÿãÑùÿÿÿÿ
+i	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ø½şÿÿÿÿ
+b	java:S101*"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´û§
+a	java:S116."LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¤ş–
+i	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÈÒôıÿÿÿÿ
+f	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°æóÿ
+l	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã’õüÿÿÿÿ
+f	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°æóÿ
+f	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îûøï
+o
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğÓ
+K
+java:S1117d"5Rename "E" which hides the field declared at line 46.(Îûøï
+C
+java:S1905="(Remove this unnecessary cast to "Bag[]".(±§ã‡ùÿÿÿÿ
+o
+java:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(½ ßË

@@ -1,0 +1,19 @@
+
+J
+java:S1066i"/Merge this if statement with the enclosing one.(©„ª¾ıÿÿÿÿ
+f
+java:S1104	"PMake hour a static final constant or non-public and provide accessors if needed.(œ„´
+g
+java:S1104"RMake minute a static final constant or non-public and provide accessors if needed.(¢Öa
+j
+java:S1104"OMake day a static final constant or non-public and provide accessors if needed.(û´ÿÿÿÿÿ
+u
+java:S1488="_Immediately return this expression instead of assigning it to the temporary variable "intdate".(´…óƒ
+t
+java:S1210X"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Ë‘ÀÊûÿÿÿÿ
+L
+java:S11178"7Rename "day" which hides the field declared at line 14.(Û€Ìi
+R
+java:S11179"7Rename "hour" which hides the field declared at line 9.(Âáİ‘ıÿÿÿÿ
+P
+java:S1117:":Rename "minute" which hides the field declared at line 11.(Ùüğ

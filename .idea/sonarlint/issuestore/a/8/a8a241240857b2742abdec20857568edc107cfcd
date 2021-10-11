@@ -1,0 +1,55 @@
+
+”
+java:S1192^"yDefine a constant instead of duplicating this literal "--------------------------------------------------------" 4 times.(ï®Í‚úÿÿÿÿ
+@
+java:S1128"%Remove this unused import 'algs4.In'.(‹’‹™øÿÿÿÿ
+o
+java:S3008"YRename this field "FILE_DELIMETER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à÷ã’
+t
+java:S3008	"YRename this field "DATE_DELIMETER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…€ŸÖûÿÿÿÿ
+t
+java:S3008
+"YRename this field "HOUR_DELIMETER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öáœ±øÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(¯Óˆ¯
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(Ÿ–ïıÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(Ÿ‰¬Éÿÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(î·İ¢ùÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(‰ùìÓüÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(×ÿŠğøÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(éßŸ£úÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(ï®Í‚úÿÿÿÿ
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(Ú½¾ùÿÿÿÿ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(€°Á
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(¼™£Âùÿÿÿÿ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(»î¢áúÿÿÿÿ
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(ï®Í‚úÿÿÿÿ
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(¥ãÛû
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(¤çš®
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(öéÊ»øÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(ó‘¸ûÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(ï®Í‚úÿÿÿÿ
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(¸¥Ó´
+T	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(œ¢‰ùÿÿÿÿ
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+O	java:S106›"9Replace this use of System.out or System.err by a logger.(Ä²–à
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ï®Í‚úÿÿÿÿ
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106±"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106µ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+H
+java:S1068"2Remove this unused "FILE_DELIMETER" private field.(à÷ã’
+M
+java:S1068	"2Remove this unused "DATE_DELIMETER" private field.(…€ŸÖûÿÿÿÿ
+M
+java:S1068
+"2Remove this unused "HOUR_DELIMETER" private field.(öáœ±øÿÿÿÿ
+V	java:S125""<This block of commented-out lines of code should be removed.(ÇÛ‰´øÿÿÿÿ
+Q	java:S1257"<This block of commented-out lines of code should be removed.(´Ã’Ì
+Q	java:S125?"<This block of commented-out lines of code should be removed.(‘µğã
+H
+java:S1144ª"1Remove this unused private "printAllData" method.(îŒØ
